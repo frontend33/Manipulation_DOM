@@ -1,0 +1,36 @@
+
+.pool{
+  display:flex;
+  flex-wrap:wrap;
+  flex-direction:row;
+  max-width: 500px;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 90px;
+  color:#4B0082;
+  background-color: #DCDCDC;
+}
+.el{
+  margin: 10px 10px 30px 2px;
+  width: 100px;
+  height: 100px;
+  background: #00ffff;
+  border:10px solid #00008b;
+}
+.pool-1{
+    margin: 10px 10px 30px 2px;
+    padding-top:20px;
+}
+
+.pool-2{
+    margin: 10px 10px 30px 2px;
+    padding-top:20px;
+}
+
+.pool-3{
+    margin: 10px 10px 30px 2px;
+    padding-top:20px;
+}
+
+
+
